@@ -26,7 +26,8 @@ Fournir un outil numérique **pratique et intuitif** pour la gestion des campagn
 
 ### Frontend
 - **Angular 19** - Framework moderne pour le développement frontend  
-- **SCSS** - Stylisation avancée et modulaire  
+- **SCSS** - Stylisation avancée et modulaire
+- **Bootstrap** - Composant UI et responsifs  
 - **Angular Material** - Composants UI élégants et responsifs  
 
 ### Backend
